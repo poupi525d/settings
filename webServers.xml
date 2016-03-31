@@ -17,14 +17,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="b39821b9-7bc1-4bf3-8b3c-f30160a5a679" name="CMCIC" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/CMCIC" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
