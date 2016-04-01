@@ -17,6 +17,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="07799ccf-be38-42b9-8d5b-63b3a14fa3ce" name="CACF" url="http://ftp.mytrainingplace.fr">
+        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/Carcentre" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
