@@ -25,6 +25,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="d8a8c582-4ea1-436a-aea9-31891d596d13" name="Groupama" url="http://ftp.mytrainingplace.fr">
+        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/Groupama" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
