@@ -168,6 +168,33 @@
             <configuration_option name="mysqlnd.net_read_timeout" value="31536000" />
             <configuration_option name="mysqlnd.sha256_server_public_key" value="" />
             <configuration_option name="mysqlnd.trace_alloc" value="" />
+            <configuration_option name="opcache.blacklist_filename" value="" />
+            <configuration_option name="opcache.consistency_checks" value="0" />
+            <configuration_option name="opcache.dups_fix" value="0" />
+            <configuration_option name="opcache.enable" value="1" />
+            <configuration_option name="opcache.enable_cli" value="1" />
+            <configuration_option name="opcache.enable_file_override" value="0" />
+            <configuration_option name="opcache.error_log" value="" />
+            <configuration_option name="opcache.fast_shutdown" value="1" />
+            <configuration_option name="opcache.file_update_protection" value="2" />
+            <configuration_option name="opcache.force_restart_timeout" value="180" />
+            <configuration_option name="opcache.inherited_hack" value="1" />
+            <configuration_option name="opcache.interned_strings_buffer" value="8" />
+            <configuration_option name="opcache.load_comments" value="1" />
+            <configuration_option name="opcache.log_verbosity_level" value="1" />
+            <configuration_option name="opcache.max_accelerated_files" value="4000" />
+            <configuration_option name="opcache.max_file_size" value="0" />
+            <configuration_option name="opcache.max_wasted_percentage" value="5" />
+            <configuration_option name="opcache.memory_consumption" value="128" />
+            <configuration_option name="opcache.optimization_level" value="0xFFFFFFFF" />
+            <configuration_option name="opcache.preferred_memory_model" value="" />
+            <configuration_option name="opcache.protect_memory" value="0" />
+            <configuration_option name="opcache.restrict_api" value="" />
+            <configuration_option name="opcache.revalidate_freq" value="60" />
+            <configuration_option name="opcache.revalidate_path" value="0" />
+            <configuration_option name="opcache.save_comments" value="1" />
+            <configuration_option name="opcache.use_cwd" value="1" />
+            <configuration_option name="opcache.validate_timestamps" value="1" />
             <configuration_option name="open_basedir" value="" />
             <configuration_option name="openssl.cafile" value="" />
             <configuration_option name="openssl.capath" value="" />
@@ -247,6 +274,58 @@
             <configuration_option name="user_ini.cache_ttl" value="300" />
             <configuration_option name="user_ini.filename" value=".user.ini" />
             <configuration_option name="variables_order" value="EGPCS" />
+            <configuration_option name="xdebug.auto_trace" value="0" />
+            <configuration_option name="xdebug.cli_color" value="0" />
+            <configuration_option name="xdebug.collect_assignments" value="0" />
+            <configuration_option name="xdebug.collect_includes" value="1" />
+            <configuration_option name="xdebug.collect_params" value="0" />
+            <configuration_option name="xdebug.collect_return" value="0" />
+            <configuration_option name="xdebug.collect_vars" value="0" />
+            <configuration_option name="xdebug.coverage_enable" value="1" />
+            <configuration_option name="xdebug.default_enable" value="1" />
+            <configuration_option name="xdebug.dump.COOKIE" value="" />
+            <configuration_option name="xdebug.dump.ENV" value="" />
+            <configuration_option name="xdebug.dump.FILES" value="" />
+            <configuration_option name="xdebug.dump.GET" value="" />
+            <configuration_option name="xdebug.dump.POST" value="" />
+            <configuration_option name="xdebug.dump.REQUEST" value="" />
+            <configuration_option name="xdebug.dump.SERVER" value="" />
+            <configuration_option name="xdebug.dump.SESSION" value="" />
+            <configuration_option name="xdebug.dump_globals" value="1" />
+            <configuration_option name="xdebug.dump_once" value="1" />
+            <configuration_option name="xdebug.dump_undefined" value="0" />
+            <configuration_option name="xdebug.extended_info" value="1" />
+            <configuration_option name="xdebug.file_link_format" value="" />
+            <configuration_option name="xdebug.idekey" value="" />
+            <configuration_option name="xdebug.max_nesting_level" value="100" />
+            <configuration_option name="xdebug.overload_var_dump" value="1" />
+            <configuration_option name="xdebug.profiler_aggregate" value="0" />
+            <configuration_option name="xdebug.profiler_append" value="0" />
+            <configuration_option name="xdebug.profiler_enable" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
+            <configuration_option name="xdebug.profiler_output_dir" value="/var/tmp/" />
+            <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
+            <configuration_option name="xdebug.remote_autostart" value="0" />
+            <configuration_option name="xdebug.remote_connect_back" value="0" />
+            <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
+            <configuration_option name="xdebug.remote_enable" value="0" />
+            <configuration_option name="xdebug.remote_handler" value="dbgp" />
+            <configuration_option name="xdebug.remote_host" value="localhost" />
+            <configuration_option name="xdebug.remote_log" value="" />
+            <configuration_option name="xdebug.remote_mode" value="req" />
+            <configuration_option name="xdebug.remote_port" value="9000" />
+            <configuration_option name="xdebug.scream" value="0" />
+            <configuration_option name="xdebug.show_exception_trace" value="0" />
+            <configuration_option name="xdebug.show_local_vars" value="0" />
+            <configuration_option name="xdebug.show_mem_delta" value="0" />
+            <configuration_option name="xdebug.trace_enable_trigger" value="0" />
+            <configuration_option name="xdebug.trace_format" value="0" />
+            <configuration_option name="xdebug.trace_options" value="0" />
+            <configuration_option name="xdebug.trace_output_dir" value="/var/tmp/" />
+            <configuration_option name="xdebug.trace_output_name" value="trace.%c" />
+            <configuration_option name="xdebug.var_display_max_children" value="128" />
+            <configuration_option name="xdebug.var_display_max_data" value="512" />
+            <configuration_option name="xdebug.var_display_max_depth" value="3" />
             <configuration_option name="xmlrpc_error_number" value="0" />
             <configuration_option name="xmlrpc_errors" value="0" />
             <configuration_option name="xsl.security_prefs" value="44" />
@@ -262,7 +341,11 @@
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.2.7">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -270,6 +353,7 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
             <extension name="apc" />
             <extension name="apcu" />
             <extension name="bcmath" />
@@ -313,6 +397,7 @@
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
