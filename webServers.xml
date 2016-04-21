@@ -41,6 +41,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="7dfde330-8959-46bc-87bb-187009b640fc" name="Serveur de Dév" url="http://ftp.cluster003.ovh.net">
+        <fileTransfer host="ftp.cluster003.ovh.net" port="21" rootFolder="/www/MTP-Activities/moodle" password="dffbdfcfdffcdfc9dff9df92dfecdffedffedfccdfd8dfd8" username="devfidelxy">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
