@@ -57,6 +57,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="8b109e40-3ea0-4f81-a4a1-8aedd1fa4e35" name="Serveur de Dév (pierre)" url="http://ftp.cluster003.ovh.net">
+        <fileTransfer host="ftp.cluster003.ovh.net" port="21" rootFolder="/www/Training" password="dffbdfcfdffcdfc9dff9df92dfecdffedffedfccdfd8dfd8" username="devfidelxy">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
