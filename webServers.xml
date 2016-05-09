@@ -25,6 +25,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="32767091-aa4f-4986-8f39-ac7afaae4a20" name="Natixis" url="http://ftp.cluster005.ovh.net">
+        <fileTransfer host="ftp.cluster005.ovh.net" port="21" rootFolder="/www/MTP-NATIXIS/moodle" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
