@@ -25,54 +25,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="d8a8c582-4ea1-436a-aea9-31891d596d13" name="Groupama" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/Groupama" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="ff13235f-6e1e-447e-85f7-bf9bedeafa0b" name="Tools" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/Tools" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="7dfde330-8959-46bc-87bb-187009b640fc" name="Serveur de Dév" url="http://ftp.cluster003.ovh.net">
-        <fileTransfer host="ftp.cluster003.ovh.net" port="21" rootFolder="/www/MTP-Activities/moodle" password="dffbdfcfdffcdfc9dff9df92dfecdffedffedfccdfd8dfd8" username="devfidelxy">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="f9a8ab54-50b3-478c-9b9e-4074442db0d8" name="CECAZ travail" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/CECAZ" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="8b109e40-3ea0-4f81-a4a1-8aedd1fa4e35" name="Serveur de Dév (pierre)" url="http://ftp.cluster003.ovh.net">
-        <fileTransfer host="ftp.cluster003.ovh.net" port="21" rootFolder="/www/Training" password="dffbdfcfdffcdfc9dff9df92dfecdffedffedfccdfd8dfd8" username="devfidelxy">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="7b2666ec-fadb-47c4-922d-e7b810fb7ec7" name="Natixis" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/MTP-NATIXIS/moodle" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
