@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="bd9426a6-a83b-4ee7-92f8-d15ee98c76d8" name="Mytrainingplace.fr" url="http://ftp.cluster005.ovh.net">
-        <fileTransfer host="ftp.cluster005.ovh.net" port="21" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="c498e479-b231-4dac-98d7-e80796bd5788" name="CECAZ" url="http://ftp.mytrainingplace.fr">
         <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/miniPNE/main" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
           <advancedOptions>
@@ -19,6 +11,22 @@
       </webServer>
       <webServer id="07799ccf-be38-42b9-8d5b-63b3a14fa3ce" name="CACF" url="http://ftp.mytrainingplace.fr">
         <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/Carcentre" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="44d05368-bdfe-4763-b55e-7895c0733ea7" name="Mytrainingplace.fr" url="http://ftp.mytrainingplace.fr">
+        <fileTransfer host="ftp.mytrainingplace.fr" port="21" username="mytrainigp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bf81c35b-6418-4bb4-bf30-acab75744132" name="Dev" url="http://ftp.cluster003.ovh.net">
+        <fileTransfer host="ftp.cluster003.ovh.net" port="21" password="dffbdfcfdffcdfc9dff9df92dfecdffedffedfccdfd8dfd8" username="devfidelxy">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
