@@ -33,6 +33,22 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="72c406e0-1b9e-460e-844d-7be0571dda15" name="PNE-V2" url="http://ftp.mytrainingplace.fr">
+        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/moodlePNE/moodle" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="80ef1921-5543-40c7-bc28-79579bf360f5" name="PNE-V2" url="http://ftp.mytrainingplace.fr">
+        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/MTP-PNE-V2/moodle" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
