@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="44d05368-bdfe-4763-b55e-7895c0733ea7" name="Mytrainingplace.fr" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
+        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/CEALS-mail" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
