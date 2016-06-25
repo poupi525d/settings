@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="44d05368-bdfe-4763-b55e-7895c0733ea7" name="Mytrainingplace.fr" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/CEALS-mail" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
+        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -41,7 +41,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="80ef1921-5543-40c7-bc28-79579bf360f5" name="PNE-V2" url="http://ftp.mytrainingplace.fr">
+      <webServer id="80ef1921-5543-40c7-bc28-79579bf360f5" name="PNE-V2 (1)" url="http://ftp.mytrainingplace.fr">
         <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/MTP-PNE-V2/moodle" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
