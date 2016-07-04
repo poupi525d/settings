@@ -33,6 +33,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="741c4e7d-ce23-4f1f-bf29-66f851a508b1" name="PNE-V2" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
