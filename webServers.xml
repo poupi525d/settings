@@ -49,6 +49,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="697813a3-80e5-49c2-8007-72101d68aa35" name="Cadif-recrut" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
