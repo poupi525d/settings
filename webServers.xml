@@ -36,6 +36,14 @@
       <webServer id="741c4e7d-ce23-4f1f-bf29-66f851a508b1" name="PNE-V2" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="2870ac7d-1785-4c24-bbc3-02632c33327f" name="Intensive Training" url="http://ftp.fidelia-intensivetraining.com">
+        <fileTransfer host="ftp.fidelia-intensivetraining.com" port="21" password="dfe6dfc3dfc7dfe4dfc8df9fdf99dfed" username="fideliai">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
