@@ -21,15 +21,20 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
-        <option value="svn+ssh://mytrainigp-michael@homez.2007/mytrainigp/depot_test" />
+        <option value="http://mytrainigp.cluster005.ovh.net" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://mytrainigp.cluster005.ovh.net" />
+        <option value="svn+ssh://mytrainigp-michael@ftp.cluster005.hosting.ovh.net/depot_test" />
+        <option value="http://ftp.cluster005.hosting.ovh.net/svn/" />
+        <option value="http://178.33.89.126/home/mytrainigp/svn" />
+        <option value="http://178.33.89.126" />
+        <option value="http://homez.2007/mytrainigp/MLEv161078/svn" />
         <option value="svn+ssh://mytrainigp-michael@homez.2007/mytrainigp/depot_test" />
         <option value="svn://mytrainigp-michael@ftp.cluster005.hosting.ovh.net/depot_test" />
         <option value="svn+ssh://mytrainigp-michael@ftp.cluster005.hosting.ovh.net/svn/depot_test" />
-        <option value="svn+ssh://mytrainigp-michael@ftp.cluster005.hosting.ovh.net/depot_test" />
         <option value="http://homez.2007/mytrainigp" />
         <option value="http://homez.2007/mytrainigp/svn/depot_test" />
         <option value="http://mytrainigp-michael@ftp.cluster005.hosting.ovh.net/depot_test" />
