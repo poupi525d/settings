@@ -18,4 +18,18 @@
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://ftp.cluster005.hosting.ovh.net" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://ftp.cluster005.hosting.ovh.net" />
+        <option value="http://178.33.89.126/svn" />
+        <option value="http://mytrainingplace.fr/svn" />
+      </list>
+    </option>
+  </component>
 </application>
