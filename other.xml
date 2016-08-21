@@ -19,13 +19,9 @@
     <local-interpreter path="/usr/local/bin/node" />
   </component>
   <component name="SvnApplicationSettings">
-    <option name="myCheckoutURLs">
-      <list>
-        <option value="http://mytrainigp.cluster005.ovh.net" />
-      </list>
-    </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://ssh mytrainigp-michael@ftp.cluster005.hosting.ovh.net" />
         <option value="http://mytrainigp.cluster005.ovh.net" />
         <option value="svn+ssh://mytrainigp-michael@ftp.cluster005.hosting.ovh.net/depot_test" />
         <option value="http://ftp.cluster005.hosting.ovh.net/svn/" />

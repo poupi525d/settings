@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="view" type="PHP" />
       <mapping pattern=".authorized_keys2.swp" type="PLAIN_TEXT" />
+      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
