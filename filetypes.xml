@@ -6,7 +6,9 @@
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="authz" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys2" type="PLAIN_TEXT" />
+      <mapping pattern="servers" type="PLAIN_TEXT" />
       <mapping pattern="passwd" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
