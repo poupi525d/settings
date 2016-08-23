@@ -51,7 +51,7 @@
         <option name="PATH_TO_PPK" value="" />
       </value>
     </option>
-    <option name="PATH_TO_PASSWORD_FILE" />
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
     <option name="TIMEOUT" value="10" />
     <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
     <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
@@ -69,12 +69,12 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
-        <option value="svn+ssh://mytrainigp@ftp.cluster005.ovh.net/depot_test" />
+        <option value="svn+ssh://fideliai@ftp.fidelia-intensivetraining.com/repo" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
-        <option value="svn+ssh://mytrainigp@ftp.cluster005.ovh.net/depot_test" />
+        <option value="svn+ssh://fideliai@ftp.fidelia-intensivetraining.com/repo" />
         <option value="svn+ssh://mytrainigp@ftp.cluster005.ovh.net/homez.2007/mytrainigp/depot_test" />
         <option value="svn+ssh://mytrainigp-michael@ftp.cluster005.ovh.net/homez.2007/mytrainigp-michael/depot_test" />
         <option value="svn+ssh://mytrainigp-michael@ftp.cluster005.ovh.net/homez.2007/mytrainigp-michael/svn/depot_test" />
