@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="c498e479-b231-4dac-98d7-e80796bd5788" name="CECAZ" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/miniPNE/main" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
+        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/miniPNE/main">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="07799ccf-be38-42b9-8d5b-63b3a14fa3ce" name="CACF" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/Carcentre" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
+        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/Carcentre">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="44d05368-bdfe-4763-b55e-7895c0733ea7" name="Mytrainingplace.fr" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" password="dfc4df92dfdcdffcdfefdfc8dfd3dff0dfe9df9ddf9edffe" username="mytrainigp">
+        <fileTransfer host="ftp.mytrainingplace.fr" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -26,7 +26,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="bf81c35b-6418-4bb4-bf30-acab75744132" name="Dev" url="http://ftp.cluster003.ovh.net">
-        <fileTransfer host="ftp.cluster003.ovh.net" port="21" password="dffbdfcfdffcdfc9dff9df92dfecdffedffedfccdfd8dfd8" username="devfidelxy">
+        <fileTransfer host="ftp.cluster003.ovh.net" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -37,7 +37,7 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="2870ac7d-1785-4c24-bbc3-02632c33327f" name="Intensive Training" url="http://ftp.fidelia-intensivetraining.com">
-        <fileTransfer host="ftp.fidelia-intensivetraining.com" port="21" password="dfe6dfc3dfc7dfe4dfc8df9fdf99dfed" username="fideliai">
+        <fileTransfer host="ftp.fidelia-intensivetraining.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -45,5 +45,8 @@
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAACgC5O0xNeOo5yPlQxe6QL4PVYXiiBwJdgjGDX+MAzO/8iOpP2719IP8e73N+Non/XABqCvdHvz025SZBIsH+cHVUSmay5HEoC1KTkOGp6mOyI0r6dZBE0lo4621MOmYaSVRi6WeLmYunYY6IoO9xVZ5GE/N6XUhDWfufeS71m4I+tn3+AN1KfGBt6BwW7GJ5qiUpqNY6oTyr67n77sXJg8F9OW6mIwA52H/GmYyBjZaBOE9ekw4JNtCcoAEQ52omBHrgs/6ryzWS9TQab1w2BWtudrBWGz4gau3SgtaOcGOPkJKpMlz507X/C1Ug+t9mf8VwGg8uQlYXnSjJaXftIFZfneAgkl53SmvdBQQBMALXsCKGoSDEpXRsDCnFV+gQCrM4Mlj2jHB/yksaENy5sdXO3FlA6ixE/ZoMUXbeTMNzgcmU9+FfBIPyePrJ6ySPG4/XM+AIpSPKzJsp4PaWzwkwDSlD+dnKAZT1wjRerXQT7BlkijhE8K7HPKYxU9x9Vp04mefQ5TEaXIsAy+5k/VogLAdN7y3yfF/bSabKQciBZDyMRLNaE1T5v0Pko2iWxygljU1tzNEnZ5avkp6QYKGeuZ5+ruyxwBNqfCEjlTl1CenmvARZHxCKziSDyU2frA7SUz9Ghm9ob48Zc6v1Qs2kRZ0HSbCUrmqk9eW9JK+1Klv9Kb8I5iWrOisvh7GWDEstRhj8RZvuiDXxAi8VC1hd9SxyLG/lz1cN0y3ni24z/SG752aR9PRDOlT8+QyGItMLS7bUJ2uK6IMW8pDsLUHtCjecr+Hz3KIGB3dKUHnH/dzch6Iuye0cBpdf7G8OjMbKwQp4dpFF0Xtwi0lIVZVZfGCNM/h8cfhQdmZXoHA16</data>
   </component>
 </application>
