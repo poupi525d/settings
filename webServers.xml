@@ -26,7 +26,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="bf81c35b-6418-4bb4-bf30-acab75744132" name="Dev" url="http://ftp.cluster003.ovh.net">
-        <fileTransfer host="ftp.cluster003.ovh.net" port="21">
+        <fileTransfer host="ftp.cluster003.ovh.net" port="21" rootFolder="/www/MTP-Activities/moodle">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -47,6 +47,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACgCpb9j8snlZ6xkPf8QIEIEKAJcJwiNjaKMAgqqAcreClHprK9MlIfNJzyd5cU+poUniKkAMqH4uLf7xSWzNX27/BHJ+uKxjYVJCX/SDZdehl4TxsiT+JdWfjdBqxhRcum2IcKpqIeEj0wAQt7sESoyQTp2Exs5tpPJ78QPP+0CCh1hV5EcQvfGQudKABR+K2e29w46B0T/ZpQabI/D84hqQHJ4/41NTEzhRA+H//MS9HChl0kuqmqNCogK4ZNPD2LlOZ4BgRnbStTqOA3Y3dKtSY+mQvaUaWRB29cu8cX+yyRCfHZcx6WZbhP1bWkjiNXZOZjJ5jqf6EO/kjGeHCGipg0ILtc/Q9NvTQyuydnP4y0AaZ6YnBl6M8rqO1n4nphJM5KGR8JvsM2Jbyg65Z1VYtS52hK75p/EhSo5ydFx5RnXNruDBIa5lVnnxukOSufDKs1b5UDp4E89mNexYjPalOwqgSQKMy+pqeL3UM73975hrUyJSubEj7zE4eZjppV6T5nEoCJK7z+rG7VC7hVEI5MKQwDIxwO1ehaOHy2/MHeyJi5loW2FNDOqeHu5Z02OLfUNP5aRg84GQFp6UbO/NWZt8Ns7An0tVaMmfZAUwGg6ZZmIi2nDfaALbyJF6QMSe8HczyyXknBXF9ubPkB0kt2J6jrvUnXHZWcoYnlQmFkuCryxUI8JXE2RKuR8KDuCIK7kPZqFsUqnWokXzJ75sBmhk3W/AsCfYmv4zSvS1s0n7rY3UJRXxYeqjvDH/8gdTzsAjiob0vHm6g1LJHHdDce5Lb9FIwx4l3bo42u/M3ThzjQh/u8jT1NOkw4pUSrH99z9J8cCPEy8YQGOEA3IYoWEd35iUHQ90+VDxAXreo</data>
+    <data>AAACgDyWru8pAkdlWHBKjwC1F+oLNih+NV/Z/8IFzIghaiv3D63437AQONd0YjKA8JnXJOAcg5MDuyc+Vkl0WUiJwIh2bxdWUjt6LEjAXipIXjq71cQRQEumVQqV1H1pId47ix96ipxDR+NaIZAhbL1GUFLg6PoV1iJ4sL73AwmdqFsXKUqW3jnrdyQqem283fndiODcL37zyJCxp04tPLg6/Yp2ZvbkvB7IzuGQqK6lfM019KYZ86ekngKKg9v8mxkSMnDoTj8raVcaJyyeIvsrrT7Gfe69NEWq7k/vIFzs+d5//7n2UeQ2sO/4eZXe2lleRK39mUy7xpj06E1dFcVgpAOcmioMEyJUQmiD+xihoLiyEKAfVyLm7ayv+HFp9rjSPbMmJ77b/cPVqYVH1qC4em052iooYE5mRWuKSip3+LnJE1G6Ct5K7UIVO1R0KwWKmtcQcNG8g9FUH5CpAKiCGTvpPNNX+jfWVHh2FBnyO4qYbwdvn5jCQk7p14LV7U0RxG8O1CZ2ftR5dPriuakrnzLdNT09VlC13S92cQM/k9mlv8MjT8LCCjkfnskxJ/+mVNRJ3ADEfBDZYVX55Q1i6kxDwH0LhdOpfVkuY7rr/iTAuZ9ZtDm8LpyObTFWLpWcWmco9XVXib9IYou8RNfNG8qrWP/sXBCd61xaX/Kp7a/BSS4BJoh8sTa8rYYWNlg/i5LZhI6JCtcHLnR9Sldjitcv2gUJIbpyqQUG0iWV1l2ZK8dw9HVD/+eZZyJ6Lx9pqnh6F0lxol3Os+wk4cGiHb8+N2Lnh1XQiAEoKvCVEdWYYMyAPU7npvo2vpp9d9ScbsJcAcpmgB00qeSsB5QqrMy4pe2ejlMtaqCawcuj2a5G</data>
   </component>
 </application>
