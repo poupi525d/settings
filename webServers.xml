@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="7db2d392-76eb-4c08-98cc-041f88118fa2" name="Dédié" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="c498e479-b231-4dac-98d7-e80796bd5788" name="CECAZ" url="http://ftp.mytrainingplace.fr">
         <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/miniPNE/main">
           <advancedOptions>
@@ -47,6 +55,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACgDx4pdthEw7NPamQGqaNj4Y97eclSOPBG/fHzEnO6ZJBiEfolDy9lYFE/sr+sY2nGYs3rmTFuJEYOSO0P6TgWDM66CoARQXgdgjPD/Kc6dizG2GKHbOK5ha97NyqsXpr7M3VmbzFV82kF2vHSYTU3q+cVPmuCm26MBuJwDKkW42uk0qKHD6/DaqvQq+d8SBWdP9tVnfFfFnPZ3TKnFKzhUu7TcuFAKKShS9B9C8DQ2g+xn3MCtPpiqzvxcZdz9iX5eTLOPKepRsLdpzlY5rFoffyDHV4JtrJJPwnIFUQEOqX0io2a+TfnQlx861dcWNHAcOfJ+Al6j3LseOK/7BI7hrwcOCAN6cNCouVxV7KquBgpNJ2qV7AODmA73TTI3EQFA+hE1p9Q4/vekw+vM1iyJF1tet1sNALmdu54fwOHDqlhT3gQplPz9AtkDRZR+jzV8gOi7FCjJ7UfTte7AJ9ctzqlCb/kUPzllrVMJQdnJ15bjveA/jfjXo+5DmcJ9E4IY46AR6gl/sRy8MkqFBwGq0xVZDeLB9lTJImj2cI0s8UcdUPFXubDWBH7hAZqdSNUAMBfOWh9GOpP59YqkBNQuqGyr1MNS5b40RktHcr51VqtkYJUkWf3i2Gox+qdSPCQ1C21UajmERhk4RH6uNqaRFUaeJ6SpStOO6KBaAXWlWYwP/39pavHJrsR+NUmtPyxjUGOsJ1RK2xhghWviR7YSf9pz1Q89WU8bt7AzpxhW+BAvRN11p4Q3ubVpr4elg10z0bNPiTcbQ82/hsRD5oKdO4pn8QsCd2Vzt6zkifluAuimT5zy5lpoXrBxwzvhicfdZ/j8oyTVPpjLRYw01kcmyqCbkp2+xXfdr4VW374U/F</data>
+    <data>AAAC8BcMsIaB4TW4ruzYUlgnu83OOngupgK79WK05a16AkLky6ZBmlMlFczRng836kW/IdrMZMs0xZSX/P7xwW+fKNJ0Pl57N5yre8jNkKU3r25lPqpmd3R9fQjq1YvSzCjYuNa+dEF2LbbKyw7x5uLhnPrdyfQYicqzfAqgqX15u4Dz4W/T715EvU7S0OCvP4jYkLd1+IhyRK3w50iMwkWcTNhWDsFr34H+Zm+CcrYKZ7Un6JRkhnzzjvajjY0OGZRk/KaGl9DecYsbvPmmiQ+C3mr1PzEGYFDxj8AIDBau0WEouRZBnW12CGU9FX+5g2OJg5p1dEiLPZxBOnRJW9v1kYHTmbkX2lIBfsMs41FjrGOvg+X9cU8VW0bv+AWDqAwF6Dib7yGmjo+q/qhpiW0lh3hiZlBAbxeGoKncDZBJ1LjMKDyvIQBxHPRZg0116UNg/UEGEyn9WmPvSo+TkTTQxDeSyqXeFLK8+QuvNVyURZ1fzLK8XXVArZWEoHX/iobZOysaamAVrc2YmsJSMG73EOUXrHj7dSrT8AveoeK4AVuMQGLtZ6LAwvsu8ago6i7wrL6KBFpChAZgeS+wg3+dlDq6yoAYTSieBHcycL22If2dJFVJL98xt+RKcj4Bf9CN6e1KEx9v4M+sLtABT54y2Z2R9159iIM7eCz+HedCuzt7jt6q082ksvUzdpNBnX8m/FiWzd5VQrMkg0dYEOExEG7i29/P8N07Dro2eFY3jySyDf4DiXAe4E4Qg2/t4ku3N9n+aUM3ne7yTrk7Bu/2tSJneMQB425UfeXHahSEOuCunqcgxg5/5wp3wR7aXnnjYmcGQP4fpK1YkBkKOLzlTzIDWqPnyeoPE/EGPLkSCECUcFdEww8SxpNRtldz4y/juu9Qt1LBIsyP7J8ZJFmaaywMpcU//Oisgo32D20cOO45d2oT7v8G1WVfswPXJSTdPzfuZZLs0Li0KssR6xtKNT41AOqlZjQ4hNUp6ykNwetmApQbnC2euPUOrwpFKHUuJw==</data>
   </component>
 </application>
