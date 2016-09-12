@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="7db2d392-76eb-4c08-98cc-041f88118fa2" name="Dédié" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="c498e479-b231-4dac-98d7-e80796bd5788" name="CECAZ" url="http://ftp.mytrainingplace.fr">
         <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/miniPNE/main">
           <advancedOptions>
@@ -47,6 +55,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACgDcdqUiIeoCUnMFYCdqr2dZnzM5SVsxFuiPvBnnjskfXYp8c2MuO2mnUHX/tmTcz7UNQ1yDrske8o8Oe26f1GWz6IEDtrPuwQu28BxWaV+EPah3P5vU3LVPyYYqhsYOd007KFYWi94PcX5B7jhbw32NFPxhpL/Go7170aVPuPZruXzIPlj4lQowspafOOTBbrKlY63y+FCBBy9s4gOZpenVkjvxAVlT9KH4GAWFOWeLSEQb2PXQgkarYPQibIie/cJiqnnIkeZwA6McuViBgOJ89uGCthla0aujRaAcER15faD7T7DU0aARZpxK8WefNagXFH4igqf6HmLFYw5dwtznas1p0zfkzK/FiyrYAE1Su/ZtXSk1gRys5ChwzVdeUTHYiWQQuMvVuBbzczCS87DFehNcPhokYLkF+JiRYz+qeWOD9dwgdx5SmbhqYwUGMn9amC2GfYTVphIfqoFY9PxRQQoSfmW6XhNYkudv5s5qKDzFiJOcrsXE4cy+62zle4DQL5TROWHLaQ1+XdF8dnw64lJP34J1eVnmRc8CmoVn1H5PCwqLJQXsBcIYGdZnqZyy/0IWVJmHvEoVWhycQQKzN2uO1qh9sXru7OnobcXTEkTSU9+smr3rc7nnEhLvOrdw+pYGK//Wx33TQSKbvWl0mv3D0waxC8lbmI1LtWOBGPy+42fGL/EwROTBA70p4PzGVFGzW6EtjWx8ty9rOrqEcG27L7wqvXsEUhpyHH6ZRU2UWp89v+5XcwE2TGdZYFQswByudeQoCJRmesCNKLsAw0MuztywpbrF9uAV5Y9lOvaDzjpAcanpKDfaQI7iEIPCEmiK4qLraqOZu5m9abJVv0skwKYsUfv2CrrgKJ5y7</data>
+    <data>AAAC8PlNRUeHz6WdIng05Z3mEHVwMakTN0aW5TLdOYM/708l5ofzN/ZN3Uo67GGvBJ58dmOilUDj1CEjajctM/DXr6rwP+FxZMZtGogx4JbvknlGoo2hRsPQWhQPx77vBaZpEErp2BdDAJVy5NEJKJMMLv5z07F9jJaZoAQ/7i4kpdM0FRMoOTPrpf7moKm15n2MVmk2fcPc5IV2SWXbbuL0ELTlQx76EeShDOi02bXXkw+fPhE0BKVK1dHncXnXFIfHQD5Bj8UwU3Bft4N8q4PBgTAKTu9vt7IJxMbMm9txObW7lnXkK0P6sAANUuPWr6Bd0KIymzx8Ro6d8r2CEQTDDb5A/LzqjSq8EDX649zJ/PiifK55RiM9MWZ/t7pvkRP7cNFAwHExhosz3gbXRedDTKWfyfjs1vHE/6hZAw6/oFHGA9SxxMvoKzftKPSEAiQn8PhIzOGNv2RtuzNo+k7bMMa+mVT/EiWc9qibPUzGyQfijdKEw83HRtiOqXYlfZHVxZjiBOh+AbpDAKHG/uuC6VmbtyTiThxojtjIb/dxdeaIPTk+gWXWy6WBxe+P1jnXEBObQWYA+81s1xHjcTT27VGOnz8fdQF2rdr9e5hHSdnOEE6a9eDuaMU1YP8mPTMCyI2hLh2TAUQtjTvoaotHGO8wSrH+8be81CPCqbOC9Eo1ThxEbleIdqLegQUY7h7dXEKrROAqWxuaEouXMp5/UThsj0MX4BuwTYTgowyRzfWJEa3M4hnA7XsKDBZB1q4g52MJxCN0y+VsRFW89GeOGSx7YBHPRCWrUsCd7T7FB3557JrWk42GtMeTqGp2K/vxaG9zecrH3rn3xBu9g/NqbbAOEalhe6gKLANGEGk9TFSc5JECkPMxFXchWp/A0aKJZ0XIjT8D4tzsDG6i0gIPNaqFrTQyNM52152zv4JjcmDWL0q9DKsz/ZPOG0EgbMRT9OyB6YGonQGwUuFKS6IQSovys01hz1AjOAvfHsvka6HTVhqvXjH++QAi6tAcWNtycg==</data>
   </component>
 </application>
