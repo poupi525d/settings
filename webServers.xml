@@ -52,9 +52,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c1d6a915-80d2-4927-b5a5-c7df94710eba" name="mytrainingplace.fr/tools" url="http://ftp.cluster005.ovh.net">
+        <fileTransfer host="ftp.cluster005.ovh.net" port="21" rootFolder="/www/Tools">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAC8Efe6ehBmmELh/EN8mpR8UbtFqG55Hnde7u82Jl1MZtsKlsdbFqS3RyDv9aJgsbmSYMX+nI/QQ/I0si929c5vi/mYsjLUpMAjao2nAgBou09cpFUqABKsRqe2jUmhtywnM89VRCwNeIPI50eSydudi6AEd3gjqm7Rw51UfJPpltdM9AeN50/gJlXtEys3Kqb48Sua3t9Dg7nG1/kBljRUlhnASbkT2LBdrKZmFVchorG0GWodruz5oXRCgmCzkZo6BvyOjHXPLSaTX0BSUvYrCfv0SK9/X9bNFA99J7Y8hlr/fc0yxAdd66F7zxArjIKi9yD/QBvVO2xZNlJMFgTgic+oj+/eEMwRLdL6FI5qFQ3IIHz+zqvT8fNoyBFxdBQgH9AWD0dRCjBDrKDStzAxqYPTYRy/vkyzLNuSMLnHbN4LohXeX8rhoy4HWKhcwCbIrPjzAvzBWU6oG0NYfQIlJMNg6EWmMnEH88wUsDn3N6nRHtye8SNXC92HGXRw8/ivKfmSTiHpJUWR1pYRkUk2wl1UmOIuJt5uIr6x6zFl9uLw0qTa0uCi0ugSXvf01H3cT8FdhLVlm3H4JCQVyyKtE7WYREeb4lDxhdCHZGOpKwo7MriJlqfS8Zkz56cahaJbevlgLOxi6DAemc4vWhcqoEC0/gJJkQ3HhaBYMa3I5H0cDZtw4vuhMVbLPqOfu4RjwlPHwg+gI0rgljYe0fD8FVFMIsLTSdCSHsdILzauqePbTUCD5m/Ya4lQEdQ2teV6lsnlpGkIF2hmuMj0DvIi69X0NnUyim1xfSA0438aRpOyajs1w/Z5H31GQWUI6gX0kpo5y1QXWx+XzpBPgS6es3EY9stKNmEvIvU5MwvOEfq6P3LJPUaPmY9spTPlVnTeLZ4H4ojuuNCUGzYyti/48xiTEeTCTxB/LNOxaovjGqmkSRjkoo4FKvU6IGqCBlHoFsFn08oWiXlvKGF9nK5UjRdKrWpJNwu9jR7tVQ7bCf1eY7fkTqveeBUQ0aD1RPM4w==</data>
+    <data>AAADYAvYzSejRqz29oulrYWL2Eu9xqZRFcvqOXQxduIzNBKk5m625ACXuR4+wnD8kbK+5QHsSHh67q7lpkYkHoNLRZ2w0yPSMxPDy+yz4R9sy+4bOJkWSUPdhhJv67lUAt2EpcBssq9YheIAwJ6C2qSuAen+QDRjJpYPURNt1FDNiAz5GMydshzPMZ5x7vlicsjdF8x6R7ocCAqzQ2q23G9mHRU/sxwGeTkUO/vn0UOcSs2FiVTIKKMpZzof/FJbVlvZof9J2gNTD5CikrgIxi8SIn4R7YmIaWO/IQTzaoks62ZWUoc9MVF/ydgzq0EGTbzKKMNcCQS5yG/VIq9wzwpWJHIdgYhRf0Iq0q0h6Kbmzyn0cD6/UnIK7gHHSAZSmKDF64/H9AlxmtvNJZbdoZK2Qj18v6aFwzg3JxS8Pvbkd9k2+eQ82jqYXeDO31eZmqivgt0C7NZtqfoqZOLkpztCqOp3K+sCCFffLGAlxMQbwvJOiOLiaUujTF1mB44sYUQGtZW+afW1CNlLNUNb+b958p/jLP8+byBvO+XLupPReK9x8E34BlkDm0hRfOhKjvlud8VpDI5jnW8/MTjpb1SvsWeEFC1GCCe7dXz3pTMbm2w6aPXdI17MPgE3d64j3MqXHZKFRdt6rodFsgmu+cd+EZJaGoo650SAKuGd1cgNRCB+d3KCn3cnidDWUDIFidYaKuZ6U0SPWpL7YTenF86yitwOdj4jqvwssGo9DY7xfdh6W3rQFbJjt0mM4z465Wr1JQgwGYb/uWrylUeZm3iwXx3Qil0TVoS+cUo3iw3Y9TDbNftt7SARWs/fq6II4KU5fNcbOCwdW58mF4yENxVdx6ZSzMP2w7J1k4I1RPG1GXEr+tomTCZzr4VfuCYESn6aML/BAwf5pTRtt6qCtzsIymHi7889V7ZPKtMSTz105DKQvSZS3FzxPd6ANE/d8zUlre1XdV3SLaQtGWxFkOOuZFqnPzUU2oyM9w42DIJ/XLNJ1AxgcSfVk3CH6w53e5WDJLLEP01F4kCLSXyhQVS0GJWykeDJ7KCibADusmi9aAr5bI7dl3jFGKfHKX2c9psxmh0T0pT+ADesRgAZc6wYhizKnjWDkNQvVvpOeXVMIb939VbeEpnhD/315PKfvJW1Yn/cn2pVAHNiu0qKx/BiUzI=</data>
   </component>
 </application>
