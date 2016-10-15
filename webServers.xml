@@ -60,9 +60,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="9040abc8-df24-4162-b7ea-7b273f0ea9c0" name="Fidelia-formation" url="http://ftp.cluster007.hosting.ovh.net">
+        <fileTransfer host="ftp.cluster007.hosting.ovh.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAADYCSI0BDSEFFTbJJkTTUCuWbsSvpMmuLjPjRlAebiM4wwh7i8+ZFAR4hIlBtvnMMoI4WsMk7wHfZKImYWHzwedXLaDj15f5+LyPaiVSM0XVMxcS8sMw+uWDIX6HjYTPwz+17NAhMtAtWI6bcyvQ2ePQ6C334Gee0aIFWloPvuORoV6iFdp719bhLGHqryNDv1b1iP0kIxYEBJm9+wqA+X5AXrYW1HFCAFvWxPlxHXd06i+KDVxa6IUMNPdPlsb6GRNMKImFnMmfe4f1cmiyUE9hlsi1XFvcQH+UCh1oT2QxuVYUkr7kcQ3g+apEpGSvUiT5A2KQNqGHPbZ3fcffrg61rJzESw/rwvV2jTdt5W2ZFxvmVzSdGxZ/RWsuLArCZKjj8XuMGVUsN2b3pCgehDF9wQehkI2vAuUGsN0QKGN+VoRxp9QECR+MYXi//rsEAGgIZvzDtp4fCeXJZQVvF5q1DXTAIxhWPXu/rOyy3acb14XT/o0g/X801DRCAdapp18bfUV6xrxPQaQHCMZr4TuvWqJA73siPjuJgyHMEOwW5ahNNb2dYnhaxUh7mNzL9YI8cnXxOVbv7TUKDECfc8r9v1kGjKsXuBoJ8evln8f5EZ+q5G7sWDtSdYKaoSeJ1L3xq3NgQbsR8Dm+rsUPxBKXufzPFE73ohzgdzJG10QVt1FCS1M5okGedY3epZ16G2GXAZ193+rgn7UOB1YgPc3LsTxyjCscX9QztycaHYW2oxZTAuHvdTjdoiiCmKBQS+xQ5WLu0EhTDnyxR+qrIgDkFqQMEpq4bkgvtrqyk3eZ/aWqcTnXlMPUZrKMw7fd2kqfbyWTUEwAfhMc2Tpjrf43ZTIGvjcFGg3BkrCAW5S8R/kx7fK6PLEPNHzT/OdoTKpyU6tjY2ewsh1SVWaPuhDwOsWseSJc5G2DBa+n1/4LwYpR91nZl1dFsWoOriahNJDR1IbqLEMw3aHuYgat0fj8qi1q11cmnvlVHq+e+r9UiSyks+mNaL1i3X4uIHsAhWeumT4/LLeCHM5eDCDxkH8p6S1qzTms2U8Kn5Q3jTR82PbW3EXwXnLVfcLApdpplwkFFhpGnCz4b8MDwtrYkamzBn133blNIbuab3uFM02mbnwnCy8i5s0NnNtdOxtPwwXNsPqeSQSRVlTMi9tViP/t8=</data>
+    <data>AAAD4JFgf70Bgnv9uekoVvl2iZqHrPk8pprj2eb0OPDQjHYw02CikfIm28NVCJFv33w6Dj2FGYwKYvh5qOlNGU3bgnVPpLempu80kv1aCcQwMwCXmNeYPL3s2URzr31qq81kDkFTAwi3qQagwWL5WIJHRBdeD3dLzC3KA+ASqOpCUfVmiGIkrh0b0I4pObxVnrqlJu6rEwcXsZqFEV3fPaw1FGq4oZmbv9ldy7vk6+d3EPrFkF0olBB4yYNwvyMgJ1xktywszrz1YTMdGA1fE8L/sfqfgNErIZGDAh2x/9k2Q216D4ahALbMkCXkZZgYMRCbl1d5qXI5fbRYoNqVzfnPkL80703NidcIMRz8xmFQtpPzJQobVW93zLKR1dSNv6/VS0g6W606qpI07Fb5S2TPvaiIF/zIqlWaqmZ5QoQbRaB6laxFbecTfxmzQzMt61hOUnT2CgWzUJ0ZC6nsMyyQ3WtpXi+ZxMXfx0mO1g3yoIW6VlqP44GhYtOCkGZ9QiZyoE6cYtaSQoaEjeEzEENhv+uIQtzr6mLFmYUGNoLYcGv/y+cOSiR6n2MilGulZb4MYPNihvcG1ewFy62UYteyJdcTDge1Q8m7Zo2KcEb5HbBMuZu4wtDBYXjfqSamRWA3r4rw6RcT5hAyVSBBvoGrUsRdTQCYNBhAJWnevJo63mpXPzPf5V4BSa6QdxhhgdUiINj8yAIdEyEGRBnB1mCRLzI1LShfCAR0utBgqSMUA4rNaCjOBWG2ASGiJXZBgF3MGaeSxuE6QkXk2AyyAK+7XR5UQSM15a+yH5IhwfexOE8Ix9oaiTP0fPcbZyybXpxWWMoZJqUKG1+/DCKmHv/mPEOxhzFWmoQO+k/SkLKgXVLrJqKn/wjnHLl3Jav/K9DNsmIf1SvQm2cDmq7D7HrzPcgTuXcVO3XTdZM+NKO7WfKF/oW/QVsGwJNyS8cdFYRpLZoS8sXtK5CHmQa+QqzNYgQHNshPQxLYmaP6bgKWsahK7RrdH3tNLAgHSjxAB7evAHfCxBkPWP7pKidkXoZVT4FxhydcWe4JNM4qzjSvBByLQTjXS6SHhm1TuYysFFIggFSkOCrq76J6ubzanUnGkE9LOx/2ZAuQHVh7y3b+E0vW1MeF7T4Iug/6iVrO+u/6FnPchJJOdaWZFLUAY7hUcp+ImFsQJtH0/yvdIrZRe5HsK/LuSmpOAsIaNQSerF+8hbqvFZkK9whxlINnUec8DN61lqZ+NYarZm9gEByQij7ImExyTCM1/tMpbH0cBXAvJ7iLp4fygICo0sMpTW5zLlUw4daRQCc9yFxj0xcrBeJmALl79ZfEzwVHBacuM+5nyg==</data>
   </component>
 </application>
