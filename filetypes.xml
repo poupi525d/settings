@@ -4,6 +4,7 @@
       <mapping pattern="view" type="PHP" />
       <mapping pattern=".viminfo" type="PLAIN_TEXT" />
       <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
+      <mapping pattern="sess_e7ntjevr031bjq0udn5getlfe5" type="PLAIN_TEXT" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern="sess_30nc4b6b4mb1i0em6pmt04c8o3" type="PLAIN_TEXT" />
       <mapping pattern=".authorized_keys2.swp" type="PLAIN_TEXT" />
