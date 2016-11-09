@@ -5,21 +5,24 @@
       <mapping pattern=".viminfo" type="PLAIN_TEXT" />
       <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
+      <mapping pattern="sess_30nc4b6b4mb1i0em6pmt04c8o3" type="PLAIN_TEXT" />
       <mapping pattern=".authorized_keys2.swp" type="PLAIN_TEXT" />
-      <mapping pattern="authz" type="PLAIN_TEXT" />
       <mapping pattern="servers" type="PLAIN_TEXT" />
       <mapping pattern="format" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="write-lock" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
+      <mapping pattern="uuid" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern=".ovhconfig" type="PLAIN_TEXT" />
       <mapping pattern="passwd" type="PLAIN_TEXT" />
       <mapping pattern="savekeys" type="PLAIN_TEXT" />
-      <mapping pattern="uuid" type="PLAIN_TEXT" />
+      <mapping pattern="authz" type="PLAIN_TEXT" />
+      <mapping pattern="sess_gm2vucdmnqm3tod48rh3orfms5" type="PLAIN_TEXT" />
       <mapping pattern="save_keys2" type="PLAIN_TEXT" />
+      <mapping pattern="sess_h901i945po4e5nv93vabjdqfk6" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys2" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
     </extensionMap>
