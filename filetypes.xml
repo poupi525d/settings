@@ -9,6 +9,7 @@
       <mapping pattern="sess_30nc4b6b4mb1i0em6pmt04c8o3" type="PLAIN_TEXT" />
       <mapping pattern=".authorized_keys2.swp" type="PLAIN_TEXT" />
       <mapping pattern="servers" type="PLAIN_TEXT" />
+      <mapping pattern="sess_tcu08eur41ecl2cd0ec6buroe2" type="PLAIN_TEXT" />
       <mapping pattern="format" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
