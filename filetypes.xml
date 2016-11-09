@@ -11,12 +11,14 @@
       <mapping pattern="servers" type="PLAIN_TEXT" />
       <mapping pattern="sess_tcu08eur41ecl2cd0ec6buroe2" type="PLAIN_TEXT" />
       <mapping pattern="format" type="PLAIN_TEXT" />
+      <mapping pattern="sess_kq7vr6hg40l5npi2itrf8e36f4" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="write-lock" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern="uuid" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
+      <mapping pattern="sess_q3mtitldu68u56lsgfcc94lgl1" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern=".ovhconfig" type="PLAIN_TEXT" />
       <mapping pattern="passwd" type="PLAIN_TEXT" />
@@ -28,6 +30,7 @@
       <mapping pattern="sess_a8ighcbehuoico98eqtfqp9e11" type="PLAIN_TEXT" />
       <mapping pattern="sess_h901i945po4e5nv93vabjdqfk6" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys2" type="PLAIN_TEXT" />
+      <mapping pattern="sess_kcfvh9hghqtr9ffoksinbperu0" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
