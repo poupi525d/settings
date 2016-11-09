@@ -19,6 +19,7 @@
       <mapping pattern=".ovhconfig" type="PLAIN_TEXT" />
       <mapping pattern="passwd" type="PLAIN_TEXT" />
       <mapping pattern="savekeys" type="PLAIN_TEXT" />
+      <mapping pattern="sess_e6l2k83sqhc7kbkb4ibla1neu0" type="PLAIN_TEXT" />
       <mapping pattern="authz" type="PLAIN_TEXT" />
       <mapping pattern="sess_gm2vucdmnqm3tod48rh3orfms5" type="PLAIN_TEXT" />
       <mapping pattern="save_keys2" type="PLAIN_TEXT" />
