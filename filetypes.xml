@@ -24,6 +24,7 @@
       <mapping pattern="authz" type="PLAIN_TEXT" />
       <mapping pattern="sess_gm2vucdmnqm3tod48rh3orfms5" type="PLAIN_TEXT" />
       <mapping pattern="save_keys2" type="PLAIN_TEXT" />
+      <mapping pattern="sess_a8ighcbehuoico98eqtfqp9e11" type="PLAIN_TEXT" />
       <mapping pattern="sess_h901i945po4e5nv93vabjdqfk6" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys2" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
