@@ -14,6 +14,10 @@
           <option name="url" value="http://admin@fidelia-training.fr:81/git_server/MTP-CACB.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://admin@fidelia-training.fr:81/git_server/MTP-CELR.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects/GIT" />
