@@ -6,7 +6,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/Applications/MAMP/bin/php/php7.0.0/bin/php" id="6741d5f2-5731-43dc-ac3b-2d89c442cd43" name="PHP" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/Applications/MAMP/bin/php/php7.0.12/bin/php" id="6741d5f2-5731-43dc-ac3b-2d89c442cd43" name="PHP" debugger_id="php.debugger.XDebug" />
       <interpreter home="ssh://root@149.202.66.57:22/cygdrive/c/Program Files (x86)/EasyPHP-Webserver-14.1b2/binaries/php" id="60695e1c-ab45-4be4-ad8f-cdad9e44652d" name="Remote PHP" debugger_id="php.debugger.XDebug">
         <remote_data HOST="149.202.66.57" PORT="22" ANONYMOUS="false" USERNAME="root" PASSWORD="dfd9df9ddfebdf9edff2dfe9dfdadfcb" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/cygdrive/c/Program Files (x86)/EasyPHP-Webserver-14.1b2/binaries/php" HELPERS_PATH="/home/root/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
@@ -15,9 +15,9 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.0.0/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.0.0/bin/php" path_separator=":" version="7.0.0">
+        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.0.12/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.0.12/bin/php" path_separator=":" version="7.0.12">
           <additional_php_ini />
-          <configuration_file>/Applications/MAMP/bin/php/php7.0.0/conf/php.ini</configuration_file>
+          <configuration_file>/Applications/MAMP/bin/php/php7.0.12/conf/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -68,7 +68,7 @@
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php7.0.0/lib/php/extensions/no-debug-non-zts-20151012/" />
+            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php7.0.12/lib/php/extensions/no-debug-non-zts-20151012/" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -87,7 +87,7 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.0.0/lib/php" />
+            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.0.12/lib/php" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="intl.default_locale" value="" />
@@ -155,12 +155,13 @@
             <configuration_option name="opcache.huge_code_pages" value="0" />
             <configuration_option name="opcache.inherited_hack" value="1" />
             <configuration_option name="opcache.interned_strings_buffer" value="8" />
+            <configuration_option name="opcache.lockfile_path" value="/tmp" />
             <configuration_option name="opcache.log_verbosity_level" value="1" />
             <configuration_option name="opcache.max_accelerated_files" value="4000" />
             <configuration_option name="opcache.max_file_size" value="0" />
             <configuration_option name="opcache.max_wasted_percentage" value="5" />
             <configuration_option name="opcache.memory_consumption" value="128" />
-            <configuration_option name="opcache.optimization_level" value="0xFFFFFFFF" />
+            <configuration_option name="opcache.optimization_level" value="0x7FFFBFFF" />
             <configuration_option name="opcache.preferred_memory_model" value="" />
             <configuration_option name="opcache.protect_memory" value="0" />
             <configuration_option name="opcache.restrict_api" value="" />
@@ -322,7 +323,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.4.0RC2">
+            <debugger_info debugger="xdebug" debugger_version="2.4.1">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -346,6 +347,7 @@
             <extension name="filter" />
             <extension name="ftp" />
             <extension name="gd" />
+            <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="imap" />
