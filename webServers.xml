@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="7db2d392-76eb-4c08-98cc-041f88118fa2" name="Dédié" url="http://149.202.66.57/MTP-PNE-V2/moodle">
+      <webServer id="7db2d392-76eb-4c08-98cc-041f88118fa2" name="Dédié" url="http://149.202.66.57/">
         <fileTransfer host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -68,9 +68,12 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="15b00405-fc50-44ae-95fb-89354e9dca4c" name="MAMP Apache BPVF" url="http://localhost:8888/">
+        <fileTransfer port="0" mountedRoot="/Applications/MAMP/htdocs/MTP-BPVF" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAD4Km6R6eSFFV2liDK1xeTVbO/S8WQR9kUXu4xSkEMQAY0z3+3KltkVNvd16eum2qNzn5DLjGnPKFkEMes+2A84cjibWHs1Ebcb/sGp9DP4Ji0lSuS28K5z4RA7Y2u0Nxt5wkVpMjBtoO1oQBk5cYzarxZ52n3XbvGb3MaBhcGgB6UTtzl8Pe33lavnEa4EzVBMCvjYebniPLbFHbJbkYVskogrN1STNgqW3H/rYCYXfp5+hA54ZzXXOfGk3XLPR5fKcdd+IpFOMR74/Dd01Wuk+HOvvts30+o8swfgwr2rfufrkaQS5ARi9YUyy8du0nMIKNzsrptPLsCv55z7EB3Id/wCmVUiQkbFjqsVPDex7W1zwe9VhT6fbjBQTMO3xo7JQjYN7L46j/kFBMYzz4kxNxBscxhQjoIb/epeByxBfZ0/rE/gqfn9MriMlTck7bu7kCW8p3tla9wX3us4VYAz1fEqbi7JIzzzkAPG8DxrmX5QZ1emV9HYCXr+AeecC0l7dxbmC8LWm/pusxHZ81ltLjbUTukK8mm07MCg19YDjurNIW8MUm6cwqttTzUVlUlrN7HxV9oiMU7Vupwuagk+fR3270GvdjJGNyV2R8+JSGRtOkzvRapAezRbpavS0B/gp8WAY6Qg+TI5GwffcpmEJlq3Rb7m+jyCWAsCIWXqp1E18uOBLvcOAZJMewcDUB/DhGnreEbQsBKf3Oznt3Q/z+OKAdDjg/0ulZNvzUyQMMxzaFDYLVRS1uvOrNt5TMJL+PtbYvsw/iolpxfwznlxG5lG0x2SipHlGnFI1E+G85Qp3B+YlE6Jepl1z3E3kCwUl/ZyOpmbqud1J0I9x0z9eG9+AzV/UzuOk4HjKJufA1iLQwbw3WWYlQvlzioA0U25yKD2EULHLJFSr+bFkjd6kleOktdvXhXyc7Ltj3ljhGRcfaty4sLknn+HoxhwWXjKgpAIG/3+lx4qsaC8kIBH33DKcSPhoDHvjsLkd/8g/WqVJuEmJKG6zpK5xu/T2pZTOE4TUoRJUsm6sE3io27gZg1CPGUECldqPumOukUCYjRxHmOS1C6yOaJxDMDmyIozG209fz/DHN+jG6thhZndH3sryTyVKVyaAUWjSbZVsavlieGEbvQOSZSKLOl5a1io/EHVn4UKSzH0Z6Op8y/e8pT6W8B4maAvkVMoNRNzBTqgplmHoY03DrCHjBKJCmsjt5jePq6+B7AQAnc9mQd689yHaR/zeHyKMsM8qdjbqciYuRFCWpCj2kokYVm4H0lPNxWulXA1FxNvF0OdAcv/auLKEc9D3Rr2Mi3UwdMWiuopRnY26FdhLQufi94XZCdig==</data>
+    <data>AAAD4CgnoMLfh4qUajhPJwSogGiKgiYlt1M3GkLtfUwkWVOnEi0HgSp06/+CyXtplNaeHHczbA+YPnGMzXresEET8wdSvcc9JqmLWwjphTp3J2zJ227QbXwhKCKBCJoBphvnboM/vQ5eVVx/+DgmzfjGKssmoYgiWDoO78NPXfXNl6Q6a8mHsBOtjX9B+zsZyjWT2WcIDqGkniDkisnkWyf42Tg5mTviyg4WMWgwJVW/TYqMVPpv47Tc12RJ1EXqmNDmBKQpmwAqe/KpEC4i2h3pEKqx+jI/nhYXiGq12sd8XkkmIKdhUmIhTLAHA/zRQuxyyg/hNaPEf3OdptNjK7pET+8iXV1dX4Pm6I11I+sL8/QWr5gyRMh/BhM0eDVN1oTxdn0o6US8ZXifPjXb2iw2NUdXMrWIL4QBFVm7JMrtLT79cHOkIgl3D7AeIGKCDguDq0hdGVu3WmpiFmCcwjFYcGiPfvBfSinHfMhrV6+ORLf5oZUhxdlO015+9nFaCvQc51kSZfEyOz29lSMfnvYIFhvrorrXonRCR0eIfLjItUTzlLaqclxRiRfEsbchqG3UHOCWIyCL01bLH1fyLdrg7fS2MA3VCCn/nly0syt44CxNINqGwkRzh7sidskd00m0/y8XMeY4D1BxM5Sm7IiFBjdrMdYA/fUyTWfvO8rTBWxn8hByya1dbUqOXK0jUM+LJs/Z/036qPGAKkk/IEBJuLvpqlIkYCR/gQVXUsSo/AXOTzYsXwX+JBgPMhiLjQ2gNir2HsiguzaUKyoKs/nJq1+S/tip5OVT1hGHu4z5yCDLCu9egO89tQNoA1gAPSTgdQYhsLFZkrIjp5tOpuMG4V8xPUCDquIHvZEHeqXn/0TgYL/a0+sKPBMWaAJjRniaqHPPbmaC7fO5gQQ9IJ6jH/N1VRtXYgS+L4+kDjmUT2ghWvrMIA8Nil4cqlc81N5vvTvirP2K985Bn/euqhee1oDbAtqYiXVIwPPTHw++ucDv+tmG1syDG0oSBu/U8CxjzzI0uRLWFR7uaSiibnsQve4Ctyb2niyq78izPlpmwu9td80OGMYI4uWslOP3CL6LJl7liEMK+mZKk+3SE7dvS0DV8TngnrO70gibnI0C31xMSwUdCapq9R6hTdhqMm9A3jcx5o69gNS2P7HIFYjnzNz0zEdgWRxAVwXpyoM2jBIeUy/sdz+YULO3qPmdqmz9JHj7vVnzYph3onhXC+QCdavo/Rl0+8hbuVxdmmDWsG5GT5OxZ3UePRMKs0M+p+0+WTDeQKYfBlVV0pTk09XT7Dx5jwPheQFi967B1rVL3iiU29TDaE6A/2o4Mqc5VMlPzQ==</data>
   </component>
 </application>
