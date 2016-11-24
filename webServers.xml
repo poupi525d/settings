@@ -60,9 +60,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="dfa3671e-88db-4e64-b19b-1d64fc5e3086" name="Remote Mantis" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21" rootFolder="/ISS/mantisbt">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAADcLznYuphz3wgf/NUqBgMyjdBdAn8LVoLVukIKpUqisnx1jQ7cOJ7vuWv1/WtPEXar3H7UIAdbakXHP6ESd7VSR5I3CQE3P6GU6rmz96GxrPmYPoV5aJFeXuuXq6gMZTeeDRlLOUx+0jOUf9rmb4bQY/cGGoj5HwejC+PE84hlSo/3Oq4umWpUfP5WlCgDVGBvv0fTuTH+p6GjtL7BxxlNnjWRQkFxSQL6uzGHuEsMLHOR3VKhcvVSktA5W634oHiN8NDFfsotv4jAIqMuuToo+XcsDQJjy4hoyJTYL+9s5bIAUr05ecvStQRqDEZ8TcdWlI96fNBq/IzY1RBZaVeTFUo4zsLHjaMdDCV8cM73cv/5D7cDjsqHs3T5+0o8w+xSPdtzSEPMegt2+OxnCDiZf+RGGlvFukdJz70cEVl2tpSyu7DPjmuQtQaIOwzfcNv75Shv7BB2ODexyykt0gaoCaG2IcyaGazPazsrTPkOnussNzvjQukRVTzrXUixAJM0oiIqAT2rPTz2nrHLpQuZiOYF6nzkemuZK7CwEN7ZZouJtzTT6YToOzkAA4ZRcMtYRQu13vRMxUb1RTth9lyAd3jH3j06dLxMFUaLcFFlJW4FmYXpit4UglNvba8S9VaZBOdUAKVtUanpuICKpspRJsOH2KaOe8m4rJF5CQmu6422BEskjkrQqOOpKS3NHgzlpC0lPLdCk1lKDCRDabKFQ7kqGuo+7xZ9Yp/WmZiA7wfByfVNm6XL0A/9eNqNJbyM5EVBS3Yzx53qzccauRDr8w8O5gxEQev9UHaD9SHTQr0LKUSS3EfUQVbwu13GZBKlnbTkU0SmCW8hNA1eoTRCZC1KDCo6insdP+ecP+kcs/HWZnY6QxDkVoKZvLXQBiYgSpHHTRQXgZxeDd5oz9Vi/sL/MdAvuZEtmyN5hdtYJiTDHAauWzd7TbhSxQ8qk7ZcDk4XgXCs+Z5CkxrYv7lqST8Q9Fs7hEKWXrRX0cF4/GpxThR4YVD2zQFKo+iIJAYwgikVrJfTO5HwCiTxH4996DW9t71OoR2D/QEDvGkaZdm6KQoKYyxalPWiyvhCGDewftbGm8dqNWUaKkzp+MiR31BYws8sDMy4248r/fwiQz7B4PKGLgvBa3SZPMWMLiWwUsYW71zjzrSFESBp+ggYGe0Ad09JeDkAB4wQGk6LiAT</data>
+    <data>AAAD4G/7CcLWj3YNNmvMmBOFRRoiVWOSlB63Q8oHg4X0W4mSDxv9gpKKZc3FVs4Q+trm5GghCs1xr5X+3IjWa6QKoeXnwTzB2LR38of6vLVe3wwL1r1WSq8vZXT9+jR+xUl8o4aIa36Ue755OCEi0rCVr37X6phxcSMGDZ8lWkEARmBWRi0ZMGnLxEJyUNrmo7BFn+BThvJMUoDfYv/rg3zZdBaAzCTISydWYtyUVuuCu2B+MWzPp7psm/5E9+Vatm+wugUUNueY6zzrLK7RizjhQjBiWEzBIP/Kl7d4WqYwTvgpOsW7xLKnt8KcmfabMGy/oKNyfzfaqobn2BnlOjSRHUIPD1VSJ/lBiSnx+Rpw8e4je5zx/hp3/XZq3KwUM6L5l4TFKD5RBw3eNWk/L1XxXPMf5QigWT3/40s2p5+UwEXBKwGE83CplQofV6up3xePLlyay0pq6YcFueXmWdYyBaJPpAr0Lij+tHsUqQYzHZWvsk6Jqko1ngzTwz7S1VR+vp1OPY7P7Iian5PsjZNMMqp93Mu5u0wpmDRpFoEFrtVd2WEMr8vHNxk+iWsuIM5PscK9s84Qj5G5PNxy3RR7GF+uGQ3YQZYrs/8KlEK1Y9hxq7c5v2qA74A4vlH+JAleLIXbfuAToQ2gsqMuSxz65XjX4IbzBeA5EBQCuxOEsfMiBGbHAv+oqePxvY73Y/FUVo+khI2ixx6xiZwFu5JXvHALeNj0P7o1fCztGBQeLh/+YE4CmReU2gn44oY0XRE6HwXNEop68LEdaLc/vp4J26yfAsK2//qTcUdktnZnx/5DQjqSWQ0jzR6BQHc2F7cdvzP/ti+bstgCS00z9VQC4TM4QJzpsGHSg3Od1lAmU1/mxh8uA03Ye3XxLjRfTyAJ6XD/NlOLWqTZYHClItGvS6+9iSL6a9rAKnTn5K6JXTq86ypxdLBxXQ2OET4nwQ/Rf2g/9OK+0fypPYSqB/mFiWSrXIRBdmI+t4cDf7+ax7lj8wFyHRXMOFLfgh+M/6XzEmPKqUOYWap1RnU3OewNpBfBIGaYb5YzlmeWu50LaSlW47VFX37Rt4yNhAsdNik5ienX6HcmnvpbQVwLWPyg4FerinEfKuOSeW3dfMIQApZ2Ghhn++vGfO9Z5gGczbriAWIh5m/o7drKLPjzUA8DZLs74O5uT+DUSADwmlAs1pAoQJ9/jpY56tkkzavbtbyH18p2Cm5S+MGymV9qMv5+vgIg/VXrAIagGCx93aTDPVymsmtdPQL+j7SNplScYDKdrrNu1oXXMFNOZNg/i2ROoYrlhN0a02ZDCBNOfJ4RzlNaKqhIddytR5jOMXSEK+109A==</data>
   </component>
 </application>
