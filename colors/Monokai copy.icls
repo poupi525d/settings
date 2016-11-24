@@ -1,11 +1,4 @@
 <scheme name="Monokai copy" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-11-24T08:37:34</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.2.2.0.0</property>
-    <property name="modified">2016-11-24T08:38:36</property>
-    <property name="originalScheme">Monokai</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
