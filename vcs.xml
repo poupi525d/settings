@@ -15,11 +15,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://admin@fidelia-training.fr:81/git_server/MTP-PNE-V2.git" />
+          <option name="url" value="http://admin@fidelia-training.fr:81/git_server/MTP-CELR.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://admin@fidelia-training.fr:81/git_server/MTP-CELR.git" />
+          <option name="url" value="http://admin@fidelia-training.fr:81/git_server/MTP-PNE-V2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
