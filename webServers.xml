@@ -76,6 +76,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="5aaa6db4-f772-4e54-852c-3e152a97a4c7" name="Remote Actu-fiscale" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/Actualites-fiscales">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
