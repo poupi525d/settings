@@ -84,6 +84,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="2a3d295a-0832-411b-9a72-ef8e14b7498b" name="Remote roundcubemail" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
