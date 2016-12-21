@@ -92,6 +92,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="02b85856-7944-4da9-b949-b0bccf86a1cb" name="Remote Dédié" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
