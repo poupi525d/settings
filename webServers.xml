@@ -108,6 +108,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="5b2b3495-a46b-4a7c-a70a-c1bc97ffa8c4" name="Remote BRED" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/MTP-BRED">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
