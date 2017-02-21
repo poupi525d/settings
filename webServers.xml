@@ -25,7 +25,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="44d05368-bdfe-4763-b55e-7895c0733ea7" name="Mytrainingplace.fr" url="http://ftp.mytrainingplace.fr">
+      <webServer id="44d05368-bdfe-4763-b55e-7895c0733ea7" name="Mytrainingplace.fr/Promote" url="http://ftp.mytrainingplace.fr">
         <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/promote">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -126,6 +126,14 @@
       </webServer>
       <webServer id="43a07077-b512-44bf-8ed7-7ce1cd1c40db" name="Remote Invitation CV" url="http://149.202.66.57">
         <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/InvitationCV">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="57272834-3630-4845-857e-580f9c514b64" name="Mytrainingplace.fr" url="http://ftp.mytrainingplace.fr">
+        <fileTransfer host="ftp.mytrainingplace.fr" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
