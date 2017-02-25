@@ -25,8 +25,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="44d05368-bdfe-4763-b55e-7895c0733ea7" name="Mytrainingplace.fr/Promote" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/promote">
+      <webServer id="44d05368-bdfe-4763-b55e-7895c0733ea7" name="Global-promote (Mytrainingplace.fr)" url="http://ftp.mytrainingplace.fr">
+        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/Global-promote">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -134,6 +134,14 @@
       </webServer>
       <webServer id="57272834-3630-4845-857e-580f9c514b64" name="Mytrainingplace.fr" url="http://ftp.mytrainingplace.fr">
         <fileTransfer host="ftp.mytrainingplace.fr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="982afc8a-455b-4203-95be-1a8d96954839" name="Promote (Mytrainingplace.fr)" url="http://ftp.mytrainingplace.fr">
+        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/promote">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
