@@ -156,6 +156,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="1940f2c1-0c4a-47a2-8729-de0fd46cb85b" name="Editor" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/Editor-PHP-1.6.1">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
