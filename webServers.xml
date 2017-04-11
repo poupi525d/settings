@@ -44,8 +44,8 @@
       <webServer id="741c4e7d-ce23-4f1f-bf29-66f851a508b1" name="PNE-V2" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="2870ac7d-1785-4c24-bbc3-02632c33327f" name="Intensive Training" url="http://ftp.fidelia-intensivetraining.com">
-        <fileTransfer host="ftp.fidelia-intensivetraining.com" port="21">
+      <webServer id="2870ac7d-1785-4c24-bbc3-02632c33327f" name="Intensive Training" url="http://ftp.cluster013.ovh.net">
+        <fileTransfer host="ftp.cluster013.ovh.net" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
