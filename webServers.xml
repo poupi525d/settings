@@ -25,8 +25,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="44d05368-bdfe-4763-b55e-7895c0733ea7" name="Global-promote (Mytrainingplace.fr)" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/global-promote">
+      <webServer id="44d05368-bdfe-4763-b55e-7895c0733ea7" name="Global-promote" url="http://149.202.66.57/global-promote">
+        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/global-promote">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
