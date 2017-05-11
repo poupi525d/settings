@@ -172,6 +172,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="238480e4-f736-46cc-9cc1-4d7586aaadf0" name="BPCE DDA" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
