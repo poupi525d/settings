@@ -180,6 +180,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="082cd47d-8754-4df7-853c-9c42cd2543b5" name="Dev-fidelia formation" url="http://ftp.cluster003.ovh.net">
+        <fileTransfer host="ftp.cluster003.ovh.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
