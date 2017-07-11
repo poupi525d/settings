@@ -188,6 +188,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c92664c2-6be3-4eda-8a81-8dd1e06c0861" name="Remote BPCE-DDA" url="http://5.196.64.48">
+        <fileTransfer host="5.196.64.48" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
