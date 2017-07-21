@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="PHPDocumentor" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/phpdoc" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="/usr/local/bin" />
+    </exec>
+  </tool>
+</toolSet>
