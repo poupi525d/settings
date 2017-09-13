@@ -204,6 +204,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="0c198569-57c0-40f6-9dfb-640453cc03fd" name="Remote Myddleware" url="http://149.202.66.57/myddleware/web/app.php">
+        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/myddleware">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
