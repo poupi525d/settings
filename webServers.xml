@@ -197,7 +197,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="6c52aa8e-34cd-4f39-be9e-7296e1a81cfc" name="Remote formations réglementaires" url="http://149.202.66.57/prestashop">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/prestashop">
+        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/formations-reglementaires">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
