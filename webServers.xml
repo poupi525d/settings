@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="1fd0b02d-5fd0-4cbe-be38-21f23a386e5c" name="Fidelia Academy" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/Fidelia-academy">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="5b685ab9-5845-4844-9a8e-693cbf53f09a" name="fidelia classes virtuelles" url="http://ftp.cluster013.ovh.net">
         <fileTransfer host="ftp.cluster013.ovh.net" port="21" rootFolder="/www/moodle" username="fideliag" password="dff9dffadfebdfe7df9bdf9cdf9bdf9adf9ddf92">
           <advancedOptions>
