@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
   <tool name="PHPDocumentor" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/usr/bin/php" />
-      <option name="PARAMETERS" value="/usr/local/bin/phpdoc --config= -d &quot;$ProjectFileDir$&quot; -t &quot;$ProjectFileDir$/docs/api&quot;" />
+      <option name="COMMAND" value="/Applications/MAMP/bin/php/php5.6.27/bin/php" />
+      <option name="PARAMETERS" value="$USER_HOME$/phpDocumentor-2.9.0/phpDocumentor-2.9.0/bin/phpdoc --config= -d &quot;$ProjectFileDir$&quot; -t &quot;$ProjectFileDir$/docs/api&quot;" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents" />
     </exec>
   </tool>
