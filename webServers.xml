@@ -109,7 +109,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="02b85856-7944-4da9-b949-b0bccf86a1cb" name="Remote Dédié" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21">
+        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/MTP-CEHDF">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
