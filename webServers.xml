@@ -244,6 +244,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="6545a22d-6ce8-4a1e-93d4-251887e94e41" name="Natixis academy" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
