@@ -252,6 +252,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="ef254a07-ff4d-4beb-a8d8-e559de4fa0d6" name="LÉA" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
