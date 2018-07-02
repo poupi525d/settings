@@ -268,6 +268,22 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="6c05c718-ebdd-4d9d-8f88-52781d417b9c" name="TransRep" url="http://149.202.66.57/myddleware/web/app.php">
+        <fileTransfer host="149.202.66.57" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5d4d0e82-3f2b-4f90-969a-bc97caed60db" name="Planification" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
