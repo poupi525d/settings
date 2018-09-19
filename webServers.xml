@@ -284,6 +284,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="9d88b033-c018-462d-ab9c-d8d65165196a" name="CEHDF" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/MTP-CEHDF">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
