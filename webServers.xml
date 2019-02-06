@@ -229,9 +229,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="18eae20f-74ac-4c0f-84da-a2776df15c48" name="DDA" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/DDA">
+        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/DDA" accessType="FTPS">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
