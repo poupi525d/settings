@@ -157,7 +157,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="6fc19528-d370-407e-9b41-7f63c790a783" name="Remote MTP-CELR" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/MTP-CELR">
+        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/MTP-CELR" accessType="FTPS">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
