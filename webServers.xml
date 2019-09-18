@@ -284,14 +284,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="f71ec876-3b1b-449f-ac5d-1e2bc6ca68e4" name="Attestation-Factory" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/Attestation-Factory">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
