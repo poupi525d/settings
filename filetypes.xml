@@ -21,13 +21,13 @@
       <mapping pattern="write-lock" type="PLAIN_TEXT" />
       <mapping pattern="savekeys" type="PLAIN_TEXT" />
       <mapping pattern="authz" type="PLAIN_TEXT" />
-      <mapping pattern=".ovhconfig" type="PLAIN_TEXT" />
       <mapping pattern="sess_30nc4b6b4mb1i0em6pmt04c8o3" type="PLAIN_TEXT" />
-      <mapping pattern="sess_8k33im2vum543frp2cc626l707" type="PLAIN_TEXT" />
+      <mapping pattern=".ovhconfig" type="PLAIN_TEXT" />
       <mapping pattern="servers" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="sess_h901i945po4e5nv93vabjdqfk6" type="PLAIN_TEXT" />
       <mapping pattern="format" type="PLAIN_TEXT" />
+      <mapping pattern="sess_8k33im2vum543frp2cc626l707" type="PLAIN_TEXT" />
       <mapping pattern="sess_q3mtitldu68u56lsgfcc94lgl1" type="PLAIN_TEXT" />
       <mapping pattern=".authorized_keys2.swp" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
