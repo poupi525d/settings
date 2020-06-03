@@ -2,70 +2,62 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="1fd0b02d-5fd0-4cbe-be38-21f23a386e5c" name="Fidelia Academy" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/Fidelia-academy">
+        <fileTransfer rootFolder="/www/Fidelia-academy" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="5b685ab9-5845-4844-9a8e-693cbf53f09a" name="fidelia classes virtuelles" url="http://ftp.cluster013.ovh.net">
-        <fileTransfer host="ftp.cluster013.ovh.net" port="21" rootFolder="/www/moodle" username="fideliag" password="dff9dffadfebdfe7df9bdf9cdf9bdf9adf9ddf92">
+        <fileTransfer rootFolder="/www/moodle" host="ftp.cluster013.ovh.net" port="21" username="fideliag" password="dff9dffadfebdfe7df9bdf9cdf9bdf9adf9ddf92">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="c498e479-b231-4dac-98d7-e80796bd5788" name="CECAZ" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/miniPNE/main">
+        <fileTransfer rootFolder="/www/miniPNE/main" host="ftp.mytrainingplace.fr" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="07799ccf-be38-42b9-8d5b-63b3a14fa3ce" name="CACF" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/Carcentre">
+        <fileTransfer rootFolder="/www/Carcentre" host="ftp.mytrainingplace.fr" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="44d05368-bdfe-4763-b55e-7895c0733ea7" name="Global-promote" url="http://149.202.66.57/global-promote">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/global-promote">
+        <fileTransfer rootFolder="/www/global-promote" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="bf81c35b-6418-4bb4-bf30-acab75744132" name="Dev" url="http://ftp.cluster003.ovh.net">
-        <fileTransfer host="ftp.cluster003.ovh.net" port="21" rootFolder="/www/MTP-Activities/moodle">
+        <fileTransfer rootFolder="/www/MTP-Activities/moodle" host="ftp.cluster003.ovh.net" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="741c4e7d-ce23-4f1f-bf29-66f851a508b1" name="PNE-V2" url="http://localhost">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="2870ac7d-1785-4c24-bbc3-02632c33327f" name="Intensive Training" url="http://ftp.cluster013.ovh.net">
         <fileTransfer host="ftp.cluster013.ovh.net" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="c1d6a915-80d2-4927-b5a5-c7df94710eba" name="mytrainingplace.fr/tools" url="http://ftp.cluster005.ovh.net">
-        <fileTransfer host="ftp.cluster005.ovh.net" port="21" rootFolder="/www/Tools">
+        <fileTransfer rootFolder="/www/Tools" host="ftp.cluster005.ovh.net" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="9040abc8-df24-4162-b7ea-7b273f0ea9c0" name="Fidelia-formation" url="http://ftp.cluster007.hosting.ovh.net">
@@ -73,31 +65,27 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="dfa3671e-88db-4e64-b19b-1d64fc5e3086" name="Remote Mantis" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/ISS/mantisbt">
+        <fileTransfer rootFolder="/ISS/mantisbt" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="a018bb89-c481-4e88-8ed5-784c047bf7b0" name="Remote FideliaOnline" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/MarkII">
+        <fileTransfer rootFolder="/www/MarkII" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="5aaa6db4-f772-4e54-852c-3e152a97a4c7" name="Remote Actu-fiscale" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/Actualites-fiscales">
+        <fileTransfer rootFolder="/www/Actualites-fiscales" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="2a3d295a-0832-411b-9a72-ef8e14b7498b" name="Remote roundcubemail" url="http://149.202.66.57">
@@ -105,7 +93,6 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="02b85856-7944-4da9-b949-b0bccf86a1cb" name="Remote Dédié" url="http://149.202.66.57">
@@ -113,31 +100,27 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="d42dd2f4-41dd-44fb-9c34-2590d0a51e03" name="Remote CACB" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/MTP-CACB">
+        <fileTransfer rootFolder="/www/MTP-CACB" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="5b2b3495-a46b-4a7c-a70a-c1bc97ffa8c4" name="Remote BRED" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/MTP-BRED">
+        <fileTransfer rootFolder="/www/MTP-BRED" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="43a07077-b512-44bf-8ed7-7ce1cd1c40db" name="Remote Invitation CV" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/InvitationCV">
+        <fileTransfer rootFolder="/www/InvitationCV" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="57272834-3630-4845-857e-580f9c514b64" name="Mytrainingplace.fr" url="http://ftp.mytrainingplace.fr">
@@ -145,39 +128,34 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="982afc8a-455b-4203-95be-1a8d96954839" name="Promote (Mytrainingplace.fr)" url="http://ftp.mytrainingplace.fr">
-        <fileTransfer host="ftp.mytrainingplace.fr" port="21" rootFolder="/www/promote">
+        <fileTransfer rootFolder="/www/promote" host="ftp.mytrainingplace.fr" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="6fc19528-d370-407e-9b41-7f63c790a783" name="Remote MTP-CELR" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/MTP-CELR">
+        <fileTransfer rootFolder="/www/MTP-CELR" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="1940f2c1-0c4a-47a2-8729-de0fd46cb85b" name="Editor" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/Editor-PHP-1.6.1">
+        <fileTransfer rootFolder="/www/Editor-PHP-1.6.1" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="dbbc70b9-ae7c-45ff-ab3a-1ae14612c9cf" name="MTP-Fidelia" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/MTP-Fidelia">
+        <fileTransfer rootFolder="/www/MTP-Fidelia" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="238480e4-f736-46cc-9cc1-4d7586aaadf0" name="BPCE DDA" url="http://149.202.66.57">
@@ -185,7 +163,6 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="082cd47d-8754-4df7-853c-9c42cd2543b5" name="Dev-fidelia formation" url="http://ftp.cluster003.ovh.net">
@@ -193,7 +170,6 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="c92664c2-6be3-4eda-8a81-8dd1e06c0861" name="Remote BPCE-DDA" url="http://5.196.64.48">
@@ -201,23 +177,20 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="6c52aa8e-34cd-4f39-be9e-7296e1a81cfc" name="Remote formations réglementaires" url="http://149.202.66.57/prestashop">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/formations-reglementaires">
+        <fileTransfer rootFolder="/www/formations-reglementaires" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="0c198569-57c0-40f6-9dfb-640453cc03fd" name="Remote Myddleware" url="http://149.202.66.57/myddleware/web/app.php">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/myddleware">
+        <fileTransfer rootFolder="/www/myddleware" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="beb49897-2baf-4a8a-a384-21b8d3138ea7" name="Remote Formaskill" url="http://ftp.cluster023.hosting.ovh.net">
@@ -225,23 +198,20 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="18eae20f-74ac-4c0f-84da-a2776df15c48" name="DDA" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/DDA" accessType="FTPS">
+        <fileTransfer rootFolder="/www/DDA" accessType="FTPS" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="4ea075b8-26d6-47ef-949f-1a85469fa36e" name="LDF 2018" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/LDF2018">
+        <fileTransfer rootFolder="/www/LDF2018" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="6545a22d-6ce8-4a1e-93d4-251887e94e41" name="Natixis academy" url="http://149.202.66.57">
@@ -249,7 +219,6 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="ef254a07-ff4d-4beb-a8d8-e559de4fa0d6" name="LÉA" url="http://149.202.66.57">
@@ -257,15 +226,13 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="76f34caf-4740-4734-b929-37c17e4b3043" name="LÉA (1)" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/LEA">
+        <fileTransfer rootFolder="/www/LEA" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="6c05c718-ebdd-4d9d-8f88-52781d417b9c" name="TransRep" url="http://149.202.66.57/myddleware/web/app.php">
@@ -273,15 +240,20 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="9d88b033-c018-462d-ab9c-d8d65165196a" name="CEHDF" url="http://149.202.66.57">
-        <fileTransfer host="149.202.66.57" port="21" rootFolder="/www/MTP-CEHDF">
+        <fileTransfer rootFolder="/www/MTP-CEHDF" host="149.202.66.57" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="dc9aad55-6d07-48ee-a93f-24f1f0412a11" name="evaluation CV" url="http://149.202.66.57">
+        <fileTransfer host="149.202.66.57" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
         </fileTransfer>
       </webServer>
     </option>
