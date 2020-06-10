@@ -10,29 +10,29 @@
       <mapping pattern="sess_a8ighcbehuoico98eqtfqp9e11" type="PLAIN_TEXT" />
       <mapping pattern="sess_ve8hfrh108l4o54s8mtfuglu55" type="PLAIN_TEXT" />
       <mapping pattern="uuid" type="PLAIN_TEXT" />
-      <mapping pattern="sess_gm2vucdmnqm3tod48rh3orfms5" type="PLAIN_TEXT" />
       <mapping pattern="sess_tcu08eur41ecl2cd0ec6buroe2" type="PLAIN_TEXT" />
       <mapping pattern="wait" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
+      <mapping pattern="save_keys2" type="PLAIN_TEXT" />
       <mapping pattern="sess_8k33im2vum543frp2cc626l707" type="PLAIN_TEXT" />
       <mapping pattern=".lastpurged" type="PLAIN_TEXT" />
-      <mapping pattern="sess_e6l2k83sqhc7kbkb4ibla1neu0" type="PLAIN_TEXT" />
       <mapping pattern="write-lock" type="PLAIN_TEXT" />
       <mapping pattern="savekeys" type="PLAIN_TEXT" />
       <mapping pattern="authz" type="PLAIN_TEXT" />
       <mapping pattern="sess_30nc4b6b4mb1i0em6pmt04c8o3" type="PLAIN_TEXT" />
       <mapping pattern=".ovhconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="sess_h901i945po4e5nv93vabjdqfk6" type="PLAIN_TEXT" />
       <mapping pattern="format" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".authorized_keys2.swp" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern=".viminfo" type="PLAIN_TEXT" />
+      <mapping pattern="sess_gm2vucdmnqm3tod48rh3orfms5" type="PLAIN_TEXT" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
-      <mapping pattern="save_keys2" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="sess_e6l2k83sqhc7kbkb4ibla1neu0" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
       <mapping pattern="sess_q3mtitldu68u56lsgfcc94lgl1" type="PLAIN_TEXT" />
       <mapping pattern="sess_kcfvh9hghqtr9ffoksinbperu0" type="PLAIN_TEXT" />
