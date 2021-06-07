@@ -1,0 +1,23 @@
+<scheme name="perso" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="61a26e" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="d460c3" />
+      </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="a70000" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
